@@ -1,5 +1,5 @@
-use rcc::Lexer;
-use rcc::Token;
+use rcc::comps::lexer::Lexer;
+use rcc::comps::lexer::Token;
 use std::env;
 use std::fs::File;
 use std::error::Error;
